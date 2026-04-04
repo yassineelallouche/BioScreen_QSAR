@@ -31,7 +31,7 @@ BioScreen-QSAR is a complete, open-source QSAR pipeline covering **six integrate
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/BioScreen-QSAR.git
+git clone https://github.com/yassineelallouchee/BioScreen-QSAR.git
 cd BioScreen-QSAR
 ```
 
@@ -268,12 +268,11 @@ scipy==1.13.1
 If you use BioScreen-QSAR in your research, please cite:
 
 ```bibtex
-@article{bioscreen_qsar_2025,
-  title   = {BioScreen-QSAR: A Modular Low-Code Python Framework for 
-             Antimicrobial Activity Prediction},
-  author  = {[Authors]},
-  journal = {Journal of Cheminformatics},
-  year    = {2025},
+@article{bioscreen_qsar_2026,
+  title   = {BioScreen-QSAR: A Modular Low-Code Python Framework for Antimicrobial Activity Prediction and Ligand-Based Virtual Screening},
+  author  = {[Yassine. EL ALLOUCHE*, Lhoucine. NAANAAI, Youssra ECH-CHAHDI, SAID EL RHABORI, Hicham ZAITAN, and Fouad KHALIL]},
+  journal = {-----},
+  year    = {2026},
   doi     = {10.xxxx/xxxxxx}
 }
 ```
@@ -294,4 +293,4 @@ Contributions are welcome! Please open an issue or submit a pull request on GitH
 
 ## 📬 Contact
 
-For questions or collaborations: **[email@institution.edu]**
+For questions or collaborations: **[yassine.elallouche@usmba.ac.ma]**
