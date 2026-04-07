@@ -31,7 +31,7 @@ BioScreen-QSAR is a complete, open-source QSAR pipeline covering **six integrate
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yassineelallouche/BioScreen-QSAR.git
+git clone https://github.com/yassineelallouche/BioScreen_QSAR.git
 cd BioScreen-QSAR
 ```
 
